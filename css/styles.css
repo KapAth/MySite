@@ -130,6 +130,7 @@ padding: 50px 0 20px;
   bottom: 300px;
 }
 
+
 .skill-row{
   width: 50%;
   margin: 100px auto 100px auto;
@@ -137,20 +138,14 @@ padding: 50px 0 20px;
 
 }
 
+
+
+
 .carousel{
-  width: 15%;
-  height: 15%;
+  width: 150px;
+  height: 150px;
   margin: auto;
 }
-
-.carousel-item img {
-  width: 150px;
-  height: auto;
-  max-width:  150px;
-
-}
-
-
 
 .btn {
   background: #11cdd4;
