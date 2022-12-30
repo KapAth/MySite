@@ -137,6 +137,21 @@ padding: 50px 0 20px;
 
 }
 
+.carousel{
+  width: 15%;
+  height: 15%;
+  margin: auto;
+}
+
+.carousel-item img {
+  width: 100px;
+  height: auto;
+  max-width: : 100px;
+
+}
+
+
+
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
