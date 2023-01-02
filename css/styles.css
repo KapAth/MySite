@@ -141,10 +141,20 @@ padding: 50px 0 20px;
 
 
 
-.carousel{
-  width: 150px;
-  height: 150px;
+ .carousel{
+  width: 200px;
+  height: 200px;
   margin: auto;
+}
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+
+
+.second-l{
+  transform: rotate(180deg);
 }
 
 .btn {
